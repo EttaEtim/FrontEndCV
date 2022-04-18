@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontEndCV/static/css/main.0b949158.css",
+    "main.js": "/FrontEndCV/static/js/main.b4330c5b.js",
+    "index.html": "/FrontEndCV/index.html",
+    "main.0b949158.css.map": "/FrontEndCV/static/css/main.0b949158.css.map",
+    "main.b4330c5b.js.map": "/FrontEndCV/static/js/main.b4330c5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b949158.css",
+    "static/js/main.b4330c5b.js"
+  ]
+}
