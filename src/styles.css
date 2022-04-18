@@ -1,0 +1,78 @@
+body{
+    font-family: Inter, sans-serif;
+    /* margin: 0;
+    padding: 0; */
+    margin-top: 20px;
+}
+
+.App{
+    border: 5px solid #005C85;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.title{
+    background-color: #005C85;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1rem;
+}
+
+.title--span{
+    text-decoration: underline;
+}
+
+.name{
+    margin-right: 15px;
+    
+}
+
+span{
+    font-weight: bold;
+    margin-right: 8px;
+}
+
+.span--hold{
+    line-height: 1px;
+    align-content: center;
+}
+
+.objective, .skills, .education, .work, .hobbies, .referee {
+    margin: 20px;
+   
+}
+
+h3{
+    color:#005C85;
+}
+
+.edu{
+    margin-left: 15px;
+}
+
+.jobs{
+    font-weight: bold;
+    line-height: 0.5px;
+  
+}
+
+.job--holder{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+   }
+
+.seperator{
+    border-top: 1px dashed #005C85;
+}
+
+.spacing{
+    border-top: 2px solid #005C85;
+}
+
+.ref--paragraph{
+    margin-left: 20px;
+}
